@@ -20,7 +20,11 @@ O recurso que faz o Git como um dos sistemas de controle de versão distribuído
 
 Outro recurso do Git é que não há a sobrescrição de códigos e perda de informações, já que as versões são salvas em um diretório onde são armazenados todos os arquivos do seu projeto. É possível guardar esse repositório no seu computador ou, pode-se utilizar uma plataforma online
 
-4. Quais as vantagens do Git? 
+**4. Quais as vantagens do Git?** 
+
+Sobre gestão, o Git serve para facilitar o trabalho das equipes, de modo que realizem as suas tarefas da melhor forma, ajudando também na redução de custos. Outros benefícios estão relacionados com a distribuição do processamento, com vantagens na questão de redundância e replicação de repositórios e permite-se as possibilidades de colaboração e parceria entre desenvolvedores.
+
+Outra vantagem, é que os processos são operados localmente, deixa de ser preciso contactar o servidor central para realizar as operações. Permite-se trabalhar em modo desconectado, sendo necessária uma conexão com a rede para troca de revisões com outros repositórios. O Git usa o rastreamento automático, o que facilita de forma significativa o processo de fusão. 
 
 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software? 
 
