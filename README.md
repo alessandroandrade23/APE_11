@@ -26,6 +26,11 @@ Sobre gestão, o Git serve para facilitar o trabalho das equipes, de modo que re
 
 Outra vantagem, é que os processos são operados localmente, deixa de ser preciso contactar o servidor central para realizar as operações. Permite-se trabalhar em modo desconectado, sendo necessária uma conexão com a rede para troca de revisões com outros repositórios. O Git usa o rastreamento automático, o que facilita de forma significativa o processo de fusão. 
 
-5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software? 
+**5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?** 
+
+O processo de versionamento permite a proteção do código-fonte do sistema, juntamente com o sistema de sequenciamento lógico das atualizações, servindo como registro para a análise dos erros, o que possibilita também a reformulação dos sistemas para versões mais robustas.
+
+O esquema de sequência na ordem crescente ajuda a evitar a confusão sobre qual versão do software está sendo utilizada. Uma coisa pertinente em um mundo de ameaças virtuais constantes. Um versionamento adequado permite a otimização do processo de desenvolvimento e incrementa a segurança da informação dentro de uma empresa.
+
 
 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
