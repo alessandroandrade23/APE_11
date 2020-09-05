@@ -33,4 +33,10 @@ O processo de versionamento permite a proteção do código-fonte do sistema, ju
 O esquema de sequência na ordem crescente ajuda a evitar a confusão sobre qual versão do software está sendo utilizada. Uma coisa pertinente em um mundo de ameaças virtuais constantes. Um versionamento adequado permite a otimização do processo de desenvolvimento e incrementa a segurança da informação dentro de uma empresa.
 
 
-6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+ **6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.**
+
+Subversion é uma ferramenta de controle de versão de software bastante utilizada. Sendo bastante rápida na execução das funcionalidades do sistema e ainda se mostra como uma das mais simples de ser empregada. Isso significa que com um conhecimento básico de conceitos relacionados ao controle de versão de software é possível executar comandos na ferramenta.
+
+O Mercurial é uma ferramenta de controle de versão de software, bastante eficiente, o que significa que consegue desempenhar bem as funções básicas de um bom controle de software. Além de ser rápida na execução dos comandos e ainda funciona muito bem para equipes grandes, nas quais os desenvolvedores não estão todos trabalhando no mesmo local, utilizada por grandes empresas como o Google e Facebook.
+
+O TFS (Team Foundation Server) é uma outra ferramenta de controle de versão de software que pode ser utilizada. Ele traz uma série de características interessantes, juntamente com as metodologias ágeis porque ele possibilita a gestão de projetos por meio de SCRUM ou CMMI.
